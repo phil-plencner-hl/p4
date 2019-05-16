@@ -2,6 +2,8 @@
 
 return [
 
+    'githubUrl' => 'https://github.com/phil-plencner-hl/p4',
+
     /*
     |--------------------------------------------------------------------------
     | Application Name

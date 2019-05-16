@@ -81,17 +81,11 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    https://open.spotify.com/album/7Jn1h8E5aT96pdyrPxrLWi?si=LFMaZAu9Sc2TwChsNJIxrw
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Docs</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://blog.laravel.com">Blog</a>
-                    <a href="https://nova.laravel.com">Nova</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <iframe src="https://open.spotify.com/embed/album/7Jn1h8E5aT96pdyrPxrLWi" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                 </div>
             </div>
         </div>
